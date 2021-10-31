@@ -6,3 +6,5 @@
 # Overview
 
 For this challenge, I used Machine Learning and Neural Networks. The reason for this challenge was to create a binary classifier that will help to predict the future applicants that will be funded by a Charitable organization called Alphabet Soup. For this project, we had a dataset that contain various measures of different organizations that have been funded by Alphabet Soup.
+
+# Results
