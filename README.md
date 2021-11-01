@@ -53,3 +53,7 @@ Attempt 2: Adding Additional neurons to hidden layers and additional hidden laye
 Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 46.6%
 
 ![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/c5d8763f7a50adc685bba7a6f738b9ebe2aa6520/Resources/Images/Neurons3.png)
+
+
+# Summary
+The initial neural network had an accuracy score of 53.3%, then the model went up to 70%, but The model ended up with an accuracy score of 46.6% after optimization. I would like to have more data to generate a more accurate model because the loss in accuracy can be explained by the fact that the model overfitted.Finally, we could have used the Random Forest classifiers because the random forest is a robust and accurate model and have better performance.
