@@ -56,4 +56,4 @@ Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh.
 
 
 # Summary
-The initial neural network had an accuracy score of 53.3%, then the model went up to 70%, but The model ended up with an accuracy score of 46.6% after optimization. I would like to have more data to generate a more accurate model because the loss in accuracy can be explained by the fact that the model overfitted.Finally, we could have used the Random Forest classifiers because the random forest is a robust and accurate model and have better performance.
+The initial neural network had an accuracy score of 53.3%, then the model went up to 70%, but The model ended up with an accuracy score of 46.6% after optimization. I would like to have more data to generate a more accurate model because the loss in accuracy can be explained by the fact that the model overfitted. Finally, we could have used the Random Forest classifiers because the random forest is a robust and accurate model and have better performance.
