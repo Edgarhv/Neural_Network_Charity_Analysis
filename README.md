@@ -37,6 +37,8 @@ For my neural network model, I chose :
 
 *No, the accuracy for my model was 53.3%.*
 
+![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/393627d1f9afb37c7c022eaa6528d0caa0e84811/Resources/Images/Neurons0.png)
+
 - What steps did you take to try and increase model performance?
 
 
