@@ -31,6 +31,8 @@ For my neural network model, I chose :
 
 *the second layer has 30 there is also an output layer.* 
 
--Was the model able to achieve the target model performance?
+- Was the model able to achieve the target model performance?
 
-*No, the accuracy for my model was 70%.*
+*No, the accuracy for my model was 53.3%.*
+
+- What steps did you take to try and increase model performance?
