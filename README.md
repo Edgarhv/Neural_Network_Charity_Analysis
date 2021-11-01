@@ -22,3 +22,9 @@ For this challenge, I used Machine Learning and Neural Networks. The reason for 
 *EIN and NAME because they will have no impact on our outcome*
 
 ### Compiling, Training, and Evaluating the Model
+
+-How many neurons, layers, and activation functions did I select for my neural network model?
+
+For my neural network model, I chose :
+- 2 hidden layers and the first layer had 80 neurons
+- the second layer has 30 there is also an output layer. 
