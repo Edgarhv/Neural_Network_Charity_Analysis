@@ -36,3 +36,7 @@ For my neural network model, I chose :
 *No, the accuracy for my model was 53.3%.*
 
 - What steps did you take to try and increase model performance?
+
+Attempt 1: Removed additional feature, that is the USE_CASE column. The rest of the model components stayed the same, and model accuracy went  up to 70%
+Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down, this time it was 53.3%.
+Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 46.6%
