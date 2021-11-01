@@ -17,7 +17,7 @@ For this challenge, I used Machine Learning and Neural Networks. The reason for 
 
 *Every Column except for IS_SUCCESSFUL*
 
--What variable(s) were neither targets nor features for the dataset?
+- What variable(s) were neither targets nor features for the dataset?
 
 *EIN and NAME because they will have no impact on our outcome*
 
