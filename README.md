@@ -48,6 +48,8 @@ Attempt 1: Removed additional feature, that is the USE_CASE column. The rest of 
 
 Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down, this time it was 53.3%.
 
+![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/e73a9616bbacba85f859dcfaa8a3aa7ae1ee22da/Resources/Images/Neurons3.1.png)
+
 Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 46.6%
 
 ![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/c5d8763f7a50adc685bba7a6f738b9ebe2aa6520/Resources/Images/Neurons3.png)
