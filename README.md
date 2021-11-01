@@ -31,6 +31,8 @@ For my neural network model, I chose :
 
 *the second layer has 30 there is also an output layer.* 
 
+![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/061bf4a22363e18a753988afb1ab81b193d74f94/Resources/Images/Neurons1.png)
+
 - Was the model able to achieve the target model performance?
 
 *No, the accuracy for my model was 53.3%.*
