@@ -42,6 +42,8 @@ For my neural network model, I chose :
 
 Attempt 1: Removed additional feature, that is the USE_CASE column. The rest of the model components stayed the same, and model accuracy went  up to 70%
 
+![img](https://github.com/Edgarhv/Neural_Network_Charity_Analysis/blob/65c7307b520954650676cd0bae32ff84bb6dffcb/Resources/Images/Neurons2.png)
+
 Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down, this time it was 53.3%.
 
 Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 46.6%
